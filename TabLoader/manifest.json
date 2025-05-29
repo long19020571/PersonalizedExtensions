@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Export/Import",
+  "version": "1.0",
+  "permissions": [
+    "tabs",
+    "downloads",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
